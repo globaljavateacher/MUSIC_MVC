@@ -36,7 +36,4 @@
 				</c:forEach>
 			</table>
 		</div>
-				<div>
-			<a href="<c:url value="/"/>"><span>첫페이지로 이동</span></a>
-		</div>
 <%@ include file="/WEB-INF/views/include/footer.jsp" %>
